@@ -1,0 +1,9 @@
+test
+*.coffee
+src/*.coffee
+
+.travis.yml
+coffeelint.json
+
+.idea
+*.sublime-*

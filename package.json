@@ -1,0 +1,32 @@
+{
+  "name": "barrow-lib",
+  "version": "0.0.1",
+  "description": "An SDK for communicating with the barrow implementation of the Portobello Road distributed marketplace protocol.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/portobello-road/barrow-lib-js.git"
+  },
+  "author": "Portobello Road Working Group",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/portobello-road/barrow-lib-js/issues"
+  },
+  "homepage": "https://github.com/portobello-road/barrow-lib-js",
+  "devDependencies": {
+    "grunt-contrib-clean": "~0.5.0",
+    "should": "~3.2.0-beta1",
+    "coffee-script": "~1.7.1",
+    "grunt-contrib-coffee": "~0.10.1",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-coffeelint": "0.0.8",
+    "grunt-mocha-cli": "~1.7.0",
+    "load-grunt-tasks": "~0.4.0",
+    "grunt": "~0.4.4",
+    "grunt-codo": "~0.1.0",
+    "grunt-contrib-uglify": "~0.4.0"
+  }
+}

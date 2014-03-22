@@ -1,0 +1,14 @@
+# Build artifacts
+*.js
+
+# Platform excludes
+thumbs.db
+.DS_Store
+
+# Node.js excludes
+node_modules
+npm-debug.log
+
+# Code editor specific excludes
+.idea
+*.sublime-*
